@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Unofficial Guide to MeanFi](README.md)
 
 ## Getting Started
 
@@ -12,8 +12,16 @@
 * [Withdrawals](getting-started/withdrawals.md)
 * [Tools & Services](getting-started/tools-and-services.md)
 
-## STRATEGIES
+## Mean University
 
-* [Dollar Cost Averaging](strategies/dollar-cost-averaging.md)
-* [Remittances](strategies/remittances.md)
-* [Payroll](strategies/payroll.md)
+* [Dollar Cost Averaging](mean-university/dollar-cost-averaging.md)
+* [Remittances](mean-university/remittances.md)
+* [Payroll & Salaries](mean-university/payroll-and-salaries.md)
+
+## Get involved
+
+* [App](https://app.meanfi.com)
+* [Website](https://meanfi.com)
+* [Discord](https://discord.meanfi.com)
+* [Twitter](https://twitter.com/meanfinance)
+* [DAO](https://docs.meanfi.com)
