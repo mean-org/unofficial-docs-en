@@ -4,16 +4,16 @@
 
 ## Getting Started
 
-* [Your wallet](getting-started/your-wallet.md)
+* [Connecting your Wallet](getting-started/connecting-to-meanfi.md)
+* [Accounts](getting-started/accounts.md)
+* [Exchange](getting-started/your-wallet.md)
+* [Transfers](getting-started/transfers.md)
 * [Deposits](getting-started/deposits.md)
 * [Withdrawals](getting-started/withdrawals.md)
-* [Connecting to MeanFi](getting-started/connecting-to-meanfi.md)
-
-***
-
-* [Import](import/README.md)
-  * [Withdrawals](import/withdrawals.md)
+* [Tools & Services](getting-started/tools-and-services.md)
 
 ## STRATEGIES
 
-* [Page 1](strategies/page-1.md)
+* [Dollar Cost Averaging](strategies/dollar-cost-averaging.md)
+* [Remittances](strategies/remittances.md)
+* [Payroll](strategies/payroll.md)

@@ -6,7 +6,7 @@ Using MeanFi to deposit your fiat money in MeanFi is simple and straightforward.
 
 All these options will be available via menu item > **Deposits. **
 
-![](broken-reference)
+![](../.gitbook/assets/deposits.png)
 
 See below the steps on how to make deposits into your wallet using different onramp options.
 
