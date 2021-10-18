@@ -1,4 +1,3 @@
 # Initial page
 
-Help and testing
-
+Help
