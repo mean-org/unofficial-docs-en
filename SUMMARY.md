@@ -18,6 +18,10 @@
 * [Remittances](mean-university/remittances.md)
 * [Payroll & Salaries](mean-university/payroll-and-salaries.md)
 
+## Medium Articles
+
+* [The Mean Protocol and MeanFi](medium-articles/the-mean-protocol-and-meanfi.md)
+
 ## Get involved
 
 * [App](https://app.meanfi.com)
